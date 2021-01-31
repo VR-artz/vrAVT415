@@ -2,5 +2,10 @@
   box-sizing: border-box;
 }
 body{
-  background-color: green
+  background-color: mintcream
+}
+h1{
+  font-family: sketchnote-square, sans-serif;
+  font-style: normal;
+  font-weight: 400;
 }
